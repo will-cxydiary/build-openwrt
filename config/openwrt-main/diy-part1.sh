@@ -8,7 +8,9 @@
 
 # Add a feed source
 # sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
-
+# jerrykuku/luci-theme-argon
+# kenzok8/openwrt-packages
+# chenmozhijin/turboacc
 # other
 # rm -rf package/utils/{ucode,fbtest}
 
